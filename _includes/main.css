@@ -19,6 +19,7 @@ body {
   position: fixed;
   z-index: -999;
   background: rgba(0, 0, 0, 0.8);
+    opacity:1;
 }
 #avatar {
     height: 180px;
@@ -32,6 +33,7 @@ h1 {
     letter-spacing: 0.1em;
     font-size: 4em;
     font-family: Helvetica;
+    font-weight: bold;
     margin: -10px 0;
 }
 h3 {
