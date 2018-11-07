@@ -3,7 +3,8 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Jorge Serrano Molina'
-description: 'Esa persona con la que me iría de cañas. Trabajador juvenil, comunicador y viajero empedernido.'
+description: 'Esa persona con la que me iría de cañas. 
+Trabajador juvenil, comunicador y viajero empedernido.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,14 +12,14 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-dribbble: ''
+#dribbble: ''
 facebook: 'JorgeSerranoM'
 twitter: 'JorgeSerranoM'
-linkedin: ''
+linkedin: 'jorgeserranom'
 instagram: 'JorgeSerranoM'
-pinterest: ''
-youtube: ''
-github-user: ''
+#pinterest: ''
+#youtube: ''
+#github-user: ''
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,11 +29,11 @@ github-user: ''
 #reddit: ''
 #medium:  ''
 #tumblr: ''
-weibo: ''
-vk: ''
+#weibo: ''
+#vk: ''
 blog_url: 'https://www.lamochiladejorge.es'
-email: ''
-messenger: ''
+email: 'jorge@lamochiladejorge.es'
+#messenger: ''
 
 # Advanced settings
 plugins:
