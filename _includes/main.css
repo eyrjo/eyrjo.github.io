@@ -50,12 +50,11 @@ ul {
     list-style: none;
     padding: 0;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.6);
 }
 li {
     border-radius: 100%;
-    border: 2px transparent;
-    color: white;
+    border: 2px white;
+    color: transparent;
     margin: 8px;
     display: inline-block;
     list-style: none;
