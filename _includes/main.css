@@ -18,8 +18,7 @@ body {
   display: block;
   position: fixed;
   z-index: -999;
-  background-color: #000000;
-  opacity: 0;
+  background: rgba(0, 0, 0, 0.8);
 }
 #avatar {
     height: 180px;
