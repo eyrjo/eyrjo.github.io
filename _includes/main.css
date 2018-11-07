@@ -50,6 +50,7 @@ ul {
     list-style: none;
     padding: 0;
     text-align: center;
+    background-color: rgba(0, 0, 0, 0.6);
 }
 li {
     border-radius: 100%;
