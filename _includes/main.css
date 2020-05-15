@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica,Arial,sans-serif;
+    font-family:'Roboto Slab', serif;
     background-color: rgba(0, 0, 0, 0);
     position: absolute;
     top: 0;
@@ -28,17 +28,16 @@ body {
 }
 h1 {
     color: white;
-    font-weight: normal;
+    font-weight: Extra-bold;
     letter-spacing: none;
     font-size: 4em;
-    font-family: Helvetica;
-    font-weight: bold;
+    font-family: Roboto Slab;
     margin: -10px 0;
 }
 h3 {
     color: white;
     padding-bottom: 20px;
-    font-weight: bold;
+    font-weight: light;
 }
 .content {
     padding-top: 100px;
