@@ -28,7 +28,7 @@ body {
 }
 h1 {
     color: white;
-    font-weight: medium, 500;
+    font-weight: 'medium', 500;
     letter-spacing: none;
     font-size: 4em;
     font-family: Roboto Slab;
