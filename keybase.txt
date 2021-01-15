@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/yrjo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yrjo.tk
+  * I am yrjo (https://keybase.io/yrjo) on keybase.
+  * I have a public key ASAYtNCa42mgnXKZJZmhxOQwLAjLpNIvpwHIXWPMtOpTLAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012018b4d09ae369a09d72992599a1c4e4302c08cba4d22fa701c85d63ccb4ea532c0a",
+      "host": "keybase.io",
+      "kid": "012018b4d09ae369a09d72992599a1c4e4302c08cba4d22fa701c85d63ccb4ea532c0a",
+      "uid": "d683fdcc6bdc105b49fa0d5b5d66ae19",
+      "username": "yrjo"
+    },
+    "merkle_root": {
+      "ctime": 1610731260,
+      "hash": "914b9eb8d6d5e3ea3f975131f5a7995c8787a28c2e43b000d18804611eafd9cdd78e87811fd6e93b68db9d6557cf932cf2fbbc88d0bf34a8ed9f1b62f9161410",
+      "hash_meta": "fe131166d029918da717c0c826ccb911568785a4bf375f44da16c0ff0dd9effb",
+      "seqno": 18761378
+    },
+    "service": {
+      "entropy": "amkFHK2FA4RdYqlRSLXLTxWO",
+      "hostname": "yrjo.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610731317,
+  "expire_in": 504576000,
+  "prev": "b699d5193e28b92ff2348501f08b988d6ce67f28754fcc6fabc7e3de3922aa08",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGLTQmuNpoJ1ymSWZocTkMCwIy6TSL6cByF1jzLTqUywKp3BheWxvYWTESpcCBMQgtpnVGT4ouS/yNIUB8IuYjWzmfyh1T8xvq8fj3jkiqgjEIFE/c7PZe/ZyvTfsR0cRFq9o0D0J0FwqbaUuVvjLWMkNAgHCo3NpZ8RAM4V7CKnJopv8F3L7nIP8kMwAy83BhngtlUVfX+ewIk8rdTDBjlaICUeYCjyXZqeOtvuBZkbyMTS9DZZNbm1zBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMW6wkPtY6FGOjgrH1xZLL6ASfdO11AHNZc4ZXW29V5jo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/yrjo
+
+==================================================================
